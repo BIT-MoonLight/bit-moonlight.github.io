@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "index", "index.jsproj", "{6449D7B0-5746-4513-9068-C789EA153060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|ARM.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|ARM.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|x64.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|x86.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|Any CPU.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|ARM.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|ARM.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|ARM.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|x64.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|x64.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|x64.Deploy.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|x86.ActiveCfg = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|x86.Build.0 = Debug|Any CPU
+		{6449D7B0-5746-4513-9068-C789EA153060}.Release|x86.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
