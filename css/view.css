@@ -1,0 +1,43 @@
+﻿body {
+    margin:0; position:absolute; left:0; top:0; bottom:0; right:0; height:auto; width:auto;
+    display:flex; flex-flow:column nowrap;
+    font-size:100%;
+    font-family:"Microsoft YaHei"
+}
+.first {
+    height:3em; background:#151740; color:#fff;
+    display:flex; align-items:stretch;
+    flex-flow:row nowrap;
+}
+.first > div:first-child {
+    font-size:1.5em; font-weight:bold; background:#3370A6; padding:0.4em 0.6em;
+    -ms-user-select:none; -webkit-user-select:none;
+    cursor:default;
+}
+#tsksCont{
+    display:flex; flex-flow:row nowrap;
+    flex-grow:1
+}
+#tsksCont > div {
+    margin:0 1em;
+    padding: 0.8em 1em;
+    transition: all 0.2s; 
+    -ms-user-select:none; -webkit-user-select:none;
+    cursor:default;
+}
+#section {
+    height:2em; background:#0C0D26; color:#fff; font-size:0.9em;
+    display:flex; flex-flow:row nowrap;
+}
+#section > div {
+    margin:0 0.3em;
+    padding: 0.3em 1em;
+    transition: all 0.2s;
+    -ms-user-select:none; -webkit-user-select:none;
+    cursor:default;
+}
+#frame {
+    width:100%;
+    border:none;
+    flex-grow:1
+}

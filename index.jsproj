@@ -24,12 +24,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="css/default.css" />
+    <Content Include="css\view.css" />
     <Content Include="imgs/background.jpg" />
     <Content Include="index.html" />
     <Content Include="js/jquery-2.2.1.min.js" />
     <Content Include="js/jquery.resize.js" />
     <Content Include="js/jquery.mousewheel.min.js" />
     <Content Include="js/default.js" />
+    <Content Include="js\view.js" />
     <Content Include="pages\ex1\index.html" />
     <Content Include="pages\ex1\tsk3\imgs\aa.jpg" />
     <Content Include="pages\ex1\tsk3\imgs\ff.jpg" />
@@ -42,11 +44,10 @@
     <Content Include="pages\ex2\index.html" />
     <Content Include="pages\ex3\index.html" />
     <Content Include="pages\ex4\index.html" />
+    <Content Include="view.html" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="css\" />
     <Folder Include="imgs\" />
-    <Folder Include="js\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
 </Project>

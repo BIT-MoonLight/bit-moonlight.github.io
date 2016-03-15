@@ -8,7 +8,7 @@ img {
 }
 
 .holder {
-    position: absolute; left:2em; top:2em; right:2em; width:auto; height:auto;
+    position: absolute; margin:20px;
     background:#eee;
     border:2px solid #999;
     padding:20px;
