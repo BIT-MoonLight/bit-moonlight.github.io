@@ -31,6 +31,14 @@
     <Content Include="js/jquery.mousewheel.min.js" />
     <Content Include="js/default.js" />
     <Content Include="pages\ex1\index.html" />
+    <Content Include="pages\ex1\tsk3\imgs\aa.jpg" />
+    <Content Include="pages\ex1\tsk3\imgs\ff.jpg" />
+    <Content Include="pages\ex1\tsk3\imgs\ll.jpg" />
+    <Content Include="pages\ex1\tsk3\imgs\ml.jpg" />
+    <Content Include="pages\ex1\tsk3\imgs\ww.jpg" />
+    <Content Include="pages\ex1\tsk3\imgs\zz.jpg" />
+    <Content Include="pages\ex1\tsk3\index.css" />
+    <Content Include="pages\ex1\tsk3\index.html" />
     <Content Include="pages\ex2\index.html" />
     <Content Include="pages\ex3\index.html" />
     <Content Include="pages\ex4\index.html" />

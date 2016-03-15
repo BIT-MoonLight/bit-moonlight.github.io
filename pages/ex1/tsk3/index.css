@@ -1,0 +1,39 @@
+﻿body {
+    font-size:100%;
+}
+
+img {
+    width:80px; height:80px; border:#999 solid 2px; margin:0 20px 0 0;
+    background:#eee
+}
+
+.holder {
+    position: absolute; left:2em; top:2em; right:2em; width:auto; height:auto;
+    background:#eee;
+    border:2px solid #999;
+    padding:20px;
+    display:flex; flex-flow:row nowrap; align-items: flex-start
+}
+.holder > div {
+    background:#fff;
+    border:2px solid #999;
+    padding:20px
+}
+.rightPanel {
+    width:120px; 
+    display:flex;
+    flex-flow: column nowrap;
+    align-self: stretch
+    
+}
+
+
+.rightPanel > img {
+    margin: 10px 0;
+}
+.rightPanel > img:first-child {
+    margin: 0 0 10px 0;
+}
+.rightPanel > img:last-child {
+    margin: 10px 0 0 0;
+}
