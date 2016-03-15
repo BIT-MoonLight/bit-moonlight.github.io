@@ -1,0 +1,56 @@
+a {
+    text-decoration:none
+}
+body {
+    font-family: "Microsoft YaHei"; font-size: 100%; overflow: hidden
+}
+
+.full {
+    position:absolute; 
+    left:0; right:0; width:100%; 
+    bottom:0; top:0; height:100% 
+}
+.horizontalStrecth {
+    position:absolute;
+    left:0; right:0; width:auto;
+}
+.verticalStrecth {
+    position:absolute; 
+    bottom:0; top:0; height:auto
+}
+
+#bgImg {
+    position:absolute
+}
+
+#mainDiv {
+    background:rgba(0, 0, 0, 0.5);
+    display: flex; flex-flow: column nowrap;
+}
+
+.tabContainer {
+    display: flex; flex-flow: row nowrap; justify-content: flex-end;
+    padding:1em 2em;
+}
+
+.pageNavi {
+    margin:1em
+}
+.pageNavi > p {
+    color:#fff
+}
+
+.introContainer {
+    display: flex; flex-flow: column nowrap;
+    flex-grow: 1; justify-content: center;
+    padding:2em;
+    color:#fff
+}
+
+.mlTitle {
+    font-size:3.2em; margin:0
+}
+.mlDesc {
+    font-size:1em; margin:0; 
+    color:#ccc /*毕竟迟神_喜欢写for循环*/
+}
