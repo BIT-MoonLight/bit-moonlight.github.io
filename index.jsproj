@@ -30,15 +30,15 @@
     <Content Include="js/jquery.resize.js" />
     <Content Include="js/jquery.mousewheel.min.js" />
     <Content Include="js/default.js" />
+    <Content Include="pages\ex1\index.html" />
+    <Content Include="pages\ex2\index.html" />
+    <Content Include="pages\ex3\index.html" />
+    <Content Include="pages\ex4\index.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="css\" />
     <Folder Include="imgs\" />
     <Folder Include="js\" />
-    <Folder Include="pages\ex1" />
-    <Folder Include="pages\ex2" />
-    <Folder Include="pages\ex3" />
-    <Folder Include="pages\ex4" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
 </Project>
