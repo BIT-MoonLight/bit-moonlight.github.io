@@ -41,6 +41,7 @@
     <Content Include="pages\ex1\tsk3\imgs\zz.jpg" />
     <Content Include="pages\ex1\tsk3\index.css" />
     <Content Include="pages\ex1\tsk3\index.html" />
+    <Content Include="pages\ex1\tsk4\index.html" />
     <Content Include="pages\ex2\index.html" />
     <Content Include="pages\ex3\index.html" />
     <Content Include="pages\ex4\index.html" />
